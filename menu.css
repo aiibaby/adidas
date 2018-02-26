@@ -1,0 +1,14 @@
+#menu {
+	position: fixed;
+	left: 0px;
+	top: -75px;
+	margin: auto;
+	padding: 5px;
+	text-align: center;
+}
+#downing {
+	position: absolute;
+	height: 25px;
+	bottom: -25px;
+	cursor:pointer;
+}
